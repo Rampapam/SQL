@@ -6,6 +6,7 @@ Data Analysis Project to help a fictional company that provides online video ren
 
 
 ## Data
+http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 
 ## Database and Tools
@@ -17,6 +18,7 @@ Data Analysis Project to help a fictional company that provides online video ren
 - Excel
 
 ## Rockbuster Database Schema
+![Rockbuster Database](https://github.com/Rampapam/SQL/assets/60465303/256ab72b-8dd1-417a-a995-751bbecc0570)
 
 
   
