@@ -5,7 +5,7 @@
 Data Analysis Project to help a fictional company that provides online video rentals. My job was to look at the data to answer various business questions and presentation of my finding to the Rockbuster management team. 
 
 
-## Data
+## Rockbuster Data
 http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 
@@ -16,6 +16,11 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 - DbVisualizer 
 - Tableau
 - Excel
+
+  
+## Project & Challenges
+# Online video rental store project
+PostgreSQL project
 
 ## Rockbuster Database Schema
 ![Rockbuster Database](https://github.com/Rampapam/SQL/assets/60465303/256ab72b-8dd1-417a-a995-751bbecc0570)
