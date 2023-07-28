@@ -10,13 +10,11 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 
 ## Database and Tools
-
 - PostgreSQL
 - pgAdmin 4 
 - DbVisualizer 
 - Tableau
 - Excel
-
 
   
 ## Project & Challenges 
@@ -31,5 +29,14 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 ## Rockbuster Database Schema
 ![Rockbuster Database](https://github.com/Rampapam/SQL/assets/60465303/256ab72b-8dd1-417a-a995-751bbecc0570)
 
+
+## Skills & Procedures
+- Relational databases
+- Database querying
+- Filtering
+- Cleaning and summarizing
+- Joining tables
+- Subqueries
+- Common table expressions
 
   
