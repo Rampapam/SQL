@@ -21,15 +21,10 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
   
 ## Project & Challenges 
 ### PostgreSQL data analysis project to help online video rental store to answer business questions:
-
 ● Which movies contributed the most/least to revenue gain?
-
 ● What was the average rental duration for all videos?
-
 ● Which countries are Rockbuster customers based in?
-
 ● Where are customers with a high lifetime value based?
-
 ● Do sales figures vary between geographic regions?
 
 
