@@ -2,6 +2,7 @@
 
 
 ## Rockbuster Stealth Data Analysis Project
+![My Image](download/Rockbuster Stealth.png)
 
 Data Analysis Project to help a fictional company that provides online video rentals. My job was to look at the data to answer various business questions and presentation of my finding to the Rockbuster management team. 
 
@@ -15,6 +16,7 @@ Data Analysis Project to help a fictional company that provides online video ren
 - pgAdmin 4 
 - DbVisualizer 
 - Tableau
+- Excel
 
   ## Rockbuster Database Schema
 
