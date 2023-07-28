@@ -25,7 +25,7 @@ PostgreSQL project
 ● Which movies contributed the most/least to revenue gain?
 ● What was the average rental duration for all videos?
 ● Which countries are Rockbuster customers based i n?
-● Where are customers with a high l ifetime value based?
+● Where are customers with a high lifetime value based?
 ● Do sales figures vary between geographic regions?
 
 ## Rockbuster Database Schema
