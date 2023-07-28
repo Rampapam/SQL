@@ -20,7 +20,7 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
   
 ## Project & Challenges
-### Online video rental tore project  <h1 style="color:purple;">Hello World</h1>
+### Online video rental store project  
 PostgreSQL data analysis project to help online video rental store to:
 
 ● Which movies contributed the most/least to revenue gain?
