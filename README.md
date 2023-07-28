@@ -19,7 +19,7 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
   
 ## Project & Challenges
-### Online video rental store project
+$\color{green}{### \space Online \space video \space rental \space store \space project \space }$ <br>
 PostgreSQL data analysis project to help online video rental store to:
 
 ● Which movies contributed the most/least to revenue gain?
