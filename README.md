@@ -19,7 +19,7 @@ Data Analysis Project to help a fictional company that provides online video ren
 - Tableau
 - Excel
 
-  ## Rockbuster Database Schema
+## Rockbuster Database Schema
 
 
   
