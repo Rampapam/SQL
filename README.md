@@ -17,14 +17,10 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 - Tableau
 - Excel
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
+
   
 ## Project & Challenges
-### Online video rental tore project 
+### Online video rental tore project  <h1 style="color:purple;">Hello World</h1>
 PostgreSQL data analysis project to help online video rental store to:
 
 ● Which movies contributed the most/least to revenue gain?
