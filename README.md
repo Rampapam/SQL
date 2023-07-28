@@ -22,6 +22,12 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 # Online video rental store project
 PostgreSQL project
 
+● Which movies contributed the most/least to revenue gain?
+● What was the average rental duration for all videos?
+● Which countries are Rockbuster customers based i n?
+● Where are customers with a high l ifetime value based?
+● Do sales figures vary between geographic regions?
+
 ## Rockbuster Database Schema
 ![Rockbuster Database](https://github.com/Rampapam/SQL/assets/60465303/256ab72b-8dd1-417a-a995-751bbecc0570)
 
