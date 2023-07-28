@@ -19,7 +19,7 @@ http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
   
 ## Project & Challenges
-# Online video rental store project
+### Online video rental store project
 PostgreSQL project
 
 ● Which movies contributed the most/least to revenue gain?
