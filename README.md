@@ -1,4 +1,5 @@
-# SQL![welcome-to-my-sql-project (1)](https://github.com/Rampapam/SQL/assets/60465303/aeea10f4-228f-4a86-b10a-574c0ab5fea0)
+# SQL   ![welcome-to-my-sql-project (1)](https://github.com/Rampapam/SQL/assets/60465303/d92a4457-739e-49bd-bb82-91c31b720fda)
+
 
 
 ![Rockbuster Stealth]       (https://github.com/Rampapam/SQL/assets/60465303/80adae3f-a7a1-4c9f-b062-adf7efde2542)
