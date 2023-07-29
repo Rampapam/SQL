@@ -4,10 +4,10 @@
 
 ![Rockbuster Stealth](https://github.com/Rampapam/SQL/assets/60465303/5e34dd60-1955-4b7c-8d69-227c9cb6f829)
 
-Data Analysis Project to help a fictional company that provides online video rentals. My job was to look at the data to answer various business questions and present my finding to the Rockbuster management team. 
+Data analysis project to help a fictional company that provides online video rentals. My job was to look at the data to answer various business questions and present my finding to the Rockbuster management team. 
 
 
-## Rockbuster Data
+## Rockbuster Data Set
 http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 
