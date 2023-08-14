@@ -1,8 +1,8 @@
 
-(https://github.com/Rampapam/SQL/assets/60465303/7b684905-6a37-431d-bb6f-4f6759f6624f)
 
 
-![Rockbuster Stealth](https://github.com/Rampapam/SQL/assets/60465303/5e34dd60-1955-4b7c-8d69-227c9cb6f829)
+
+![Rockbuster Stealth](https://github.com/Rampapam/SQL/assets/60465303/5e34dd60-1955-4b7c-8d69-227c9cb6f829.png)
 
 Data analysis project to help a fictional company that provides online video rentals. My job was to look at the data to answer various business questions and present my finding to the Rockbuster management team. 
 
