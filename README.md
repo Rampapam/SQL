@@ -1,4 +1,3 @@
-
 ![welcome-to-my-sql-project (1)](https://github.com/Rampapam/SQL/assets/60465303/b830e635-b49e-4933-9d99-f4443fc7bff2)
 
 
